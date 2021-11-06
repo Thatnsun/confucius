@@ -16,8 +16,7 @@
                 document.getElementById('15').style.color = "#b16286";
                 document.getElementById('16').style.color = "#b16286";            
                 document.getElementById('18').style.color = "#b16286";
-                document.getElementById('19').style.color = "#dddddd";
-               
+                               
                var spanElements = document.getElementsByTagName('a');
 
                for (var i = 0; i < spanElements.length; i++) {
@@ -39,8 +38,7 @@
                 document.getElementById('15').style.color = "#f1f1f1";
                 document.getElementById('16').style.color = "#f1f1f1";            
                 document.getElementById('18').style.color = "#f1f1f1";
-                document.getElementById('19').style.color = "#999999";
-
+                
                 var spanElements = document.getElementsByTagName('a');
 
                for (var i = 0; i < spanElements.length; i++) {
