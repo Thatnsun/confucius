@@ -5,7 +5,7 @@
         checkbox.addEventListener('change', function() {
             if(this.checked) {
                 document.body.style.backgroundColor = "#458588";
-                document.getElementById('1').style.backgroundImage = "url('tree8.png')";
+                document.getElementById('1').style.backgroundImage = "url('tree2.png')";
                 document.getElementById('2').style.color = "#b16286";
                 document.getElementById('9').style.color = "#b16286";
                 document.getElementById('10').style.color = "#b16286";
